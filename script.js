@@ -45,6 +45,5 @@ const updateScore= score =>
 }
 //updateScore('human');
 
-
 const advanceRound=()=> currentRoundNumber+=1;
 
